@@ -6,90 +6,35 @@ comments: false
 modified: 2017-09-18
 ---
 
-## Yi-Xin Liu
+## Juan Sebastián Gómez Cañón
 
-Department of Macromolecular Science
-Fudan University
-Yuejin Bldg. Room 405, 220 Handan Rd.
-Shanghai, 200433, China
-Mobile: (+86) 13916819745
-Email: lyx@fudan.edu.cn; liuyxpp@gmail.com
-Website: [http://www.ngpy.org](http://www.ngpy.org/)
+Ilmenau, 98693, Germany
+Email: juan.sebastian.gomez.canon@idmt.fraunhofer.de; juans.gomez87@gmail.com
+Website: [http://juansgomez87.github.io](http://juansgomez87.github.io)
 
 
 ### Research Interests
 -----
 
-- Static and dynamic properties of complex fluids, e.g. biological macromolecules (DNA, protein), polyelectrolytes, block copolymers, and polymer brushes in bulk or under confinements.
+- Automatic Musical Instrument Recognition with Convolutional Neural Networks
 
-- Numerical algorithms for polymer self-consistent field theory, molecular dynamics simulation, Monte Carlo simulation, and phase field simulation.
+- Music Emotion Recognition
 
-- Thin and ultrathin film polymer crystallization.
-
-### Research Experience
------
-
-**Lecturer**, 2012 - present
-*Fudan University, Department of Macromolecular Science*
-
-- Chebyshev based self-consistent field theory (SCFT) studies of polymer brushes and polymers under confinements, focusing on the effect of surface affinity. The Chebyshev based SCFT algorithm is highly efficient on non-periodic boundary condition problems.
-
-- Development of the polyorder project: a unified computing framework for conducting polymer SCFT calculations.
-
-**Visiting Researcher**, 2014 - 2016
-*University of California, Santa Barbara, Materials Research Laboratory*
-
-- Field-theoretic simulations of polymeric materials.
-
-- Developing a density functional model for polymeric systems. 
-
-**Postdoctoral Research Fellow**, 2009 - 2012
-*Fudan University, Department of Macromolecular Science*
-
-- Developed high performance SCFT methods for studying the equilibrium phase separation structures of block copolymers and polyelectrolytes.
-
-- Developed multigrid algorithms for solving Poisson-Boltzmann equations.
-
-- Performed Monte Carlo simulations on the nucleation and growth process in thickening of monolayer PEO crystals in ultrathin films.
-
-**Ph.D. Candidate**, 2004 - 2009
-*Peking University, College of Chemistry and Molecular Engineering*
-
-- Introduced the phase field simulation techniques to study morphological evolution of monolayer poly(ethylene oxide) (PEO) crystals.
-
-- Conducted experimental studies on the nucleation, growth, and thickening of monolayer PEO crystals in ultrathin films using real-time atomic force microsocpy (AFM).
-
-**Undergraduate Student**, 2003 - 2004
-*Nanjing University, School of Chemistry and Chemical Engineering*
-
-- Synthesized three amphiphilic ligands and their complexes with Cu^2+.
-
-- Computed surface properties of supported catalysts using Gaussian 98.
-
-### Teaching
------
-
-- Introduction to Polymer Materials (Fall 2017)
-
-- Polymer Physics (Spring 2017)
-
-- Introduction to Polymer Materials (Fall 2016)
-
-- Polymer Physics (Spring 2014)
+- Audio signal processing
 
 ### Education
 -----
 
-**Peking University**, Beijing, 2004 - 2009
-Ph.D. in Polymer Chemistry and Physics, Jun, 2009
-Disertation: *Phase Selection Pathways and Morphological Evolution in Polymer Crystallization: An Experimental and Theoretical Study on Low Molecular Weight Poly(ethylene oxide) Fractions*
+**Technische Universität Ilmenau**, Ilmenau, 2016 - Present
+M.Sc. in Media Technology, Apr, 2018
+Thesis: *Automatic Instrument Recognition with Deep Convolutional Neural Networks*
 Advisor: Prof. Er-Qiang Chen
 
 **Nanjing University**, Nanjing, 2000 - 2004
 BS in Chemistry, Jun, 2004
 Thesis: *Synthesis and characterization of Amphiphilic Ligands and Its Complexes with Metal Ions*
 Advisor: Prof. Wei-Jiang He
-
+<!-- 
 ### Research Grants
 -----
 
@@ -108,27 +53,21 @@ Advisor: Prof. Wei-Jiang He
 
 - Referee, Polymer (2013 - present)
 
-- Referee, Review of Scientific Instruments (2016 - present)
+- Referee, Review of Scientific Instruments (2016 - present) -->
 
 ### Honors and Awards
 -----
 
-- Dongkong Scholarship for Graduates (Peking University, 2008)
+- Deutsche Akademische Austausch Dienst (2016)
 
-- Student Award of Merit (Peking University, 2008)
-
-- Renming Scholarship (Nanjing University, 2000, 2001, 2002, 2003)
+- COLFUTURO (2016)
 
 ### Computational Experience
 -----
 
-- Programming: C/C++, Parallel Programming (MPI, CUDA), Python, Matlab, Fortran, HTML/CSS.
+- Programming: Python, Matlab.
 
-- Working experience with armadillo, blitz++, fftw, numpy, scipy, matplotlib, and mayavi.
-
-- Open source projects: [polyorder](https://bitbucket.org/liuyxpp/polyorder) - [gyroid](http://packages.python.org/gyroid) - [ngpy](https://bitbucket.org/liuyxpp/ngpy) - [chebpy](https://bitbucket.org/liuyxpp/chebpy)
-
-### Technical Experience
+<!-- ### Technical Experience
 -----
 
 **TEM Administrator**, 2009 - 2012
@@ -150,7 +89,7 @@ Advisor: Prof. Wei-Jiang He
 ### Publications
 -----
 
-Please visit [my publication list]({{ site.url }}/publications/).
+Please visit [my publication list]({{ site.url }}/publications/). -->
 
 <div markdown="0">
     <br><br>
