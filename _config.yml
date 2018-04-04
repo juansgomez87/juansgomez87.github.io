@@ -1,25 +1,25 @@
-title:            Yi-Xin Liu
-description:      "Dr. Yi-Xin Liu is a polymer physicists at Fudan University."
-disqus_shortname: ngpy
+title:            Juan Sebastián Gómez Cañón
+description:      "Juan Gómez is a M.Sc. Student at TU Ilmenau"
+disqus_shortname: jsgc
 reading_time:     true
 words_per_minute: 200
 #url:                    # blank for local preview
-url: http://ngpy.org   # for production
+#url: http://ngpy.org   # for production
 header-img: images/homepage.jpg
 excerpt_separator: "<!--more-->"
 
 # Owner/author information
 owner:
-  name:           Yi-Xin Liu
+  name:           #Juan Sebastián Gómez Cañón
   avatar:         avatar.jpg
-  bio:            "Dr. Yi-Xin Liu is a lecturer and researcher working in the field of polymer physics at Fudan University since 2012. Before that, he is a postdoctoral fellow at Fudan University since 2009. He received his BS at 2004 from Nanjing University and PhD at 2009 from Peking University."
-  email:          lyx@fudan.edu.cn
+  bio:            "Juan Sebastián Gómez Cañön is completing his M.Sc. in Media Technology specializing in Audio Technology at the Technische Universität Ilmenau, Germany. He also completed a B.Sc. in Electronic Engineering and a B.A. in Music majoring in Audio Production at the Universidad de los Andes, Colombia. "
+  email:          juans.gomez87@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: lyxfudan
+  twitter: 
   facebook:
-  github: liuyxpp
+  github: juansgomez87
   stackexchange:
-  linkedin:
+  linkedin: 
   instagram:
   flickr:
   tumblr:
@@ -30,13 +30,13 @@ owner:
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-31783224-1  # Analytics Property ID
-google_verify: vCNYuIbRPqv4coJvcqQglEsd4IBd9p4cP0AdERyG86w  # Webmaster
+google_analytics: UA-116955047-1  # Analytics Property ID
+google_verify: # vCNYuIbRPqv4coJvcqQglEsd4IBd9p4cP0AdERyG86w  # Webmaster
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Shanghai
+timezone:    Europe/Berlin
 future:      true
 highlighter: rouge
 markdown:    kramdown
