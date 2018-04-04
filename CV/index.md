@@ -16,11 +16,13 @@ Website: [http://juansgomez87.github.io](http://juansgomez87.github.io)
 ### Research Interests
 -----
 
-- Automatic Musical Instrument Recognition with Convolutional Neural Networks
+- Music Information Retrieval: Automatic Musical Instrument Recognition with Convolutional Neural Networks
 
-- Music Emotion Recognition
+- Music Emotion Recognition: Recommendation Systems
 
-- Audio signal processing
+- Audio Signal Processing: Audio Object Localization and Recognition
+
+- LSTM for Text Generation in Twitter: Uribot
 
 ### Education
 -----
