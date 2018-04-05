@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV
+description: d[ o_0 ]b
 image: images/homepage.jpg
 comments: false
 modified: 2018-04-05
