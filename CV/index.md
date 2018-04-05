@@ -10,7 +10,7 @@ modified: 2018-04-05
 ## Juan Sebastián Gómez Cañón
 
 Ilmenau, 98693, Germany <br/>
-Email: [juan.sebastian.gomez.canon@idmt.fraunhofer.de](juan.sebastian.gomez.canon@idmt.fraunhofer.de) <br/>
+Email: [juan.sebastian.gomez.canon@idmt.fraunhofer.de](mailto:juan.sebastian.gomez.canon@idmt.fraunhofer.de) <br/>
 Website: [http://juansgomez87.github.io](http://juansgomez87.github.io) <br/>
 
 
