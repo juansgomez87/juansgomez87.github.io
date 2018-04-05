@@ -3,11 +3,11 @@
 #- title:    Home
 #  url:      /
 
-#- title:    Research
- # url:      /research/
-
 - title:    Blog
   url:      /blog/
+
+- title:    Code
+  url:      /code/
 
 - title:    About
   url:      /about/

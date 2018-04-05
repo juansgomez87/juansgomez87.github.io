@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: home
 title: About
-description: A brief introdcution of Dr. Yi-Xin Liu and about the technique used by this website.
-header-img: images/about.jpg
+description: A brief introduction of me
+tags: [Jekyll, theme, themes, responsive, blog, modern]
 comments: false
-modified: 2018-04-04
+header-img: images/homepage.jpg
 ---
 
 # About Me
@@ -12,7 +12,7 @@ modified: 2018-04-04
 
 **Juan Gómez** Colombian. I'm an electronic engineer, musician majoring in audio production, amateur guitarrist, and soon-to-be M.Sc. in Media Technology from TU Ilmenau. Music, Audio, Signal Processing, Deep Learning, AI.
 
-**CV - Resume**
+**Curriculum Vitae (CV)**
 
 <div markdown="0">
     <a href="{{ site.url }}/CV/" class="btn btn-info">View HTML</a>

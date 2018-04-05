@@ -1,16 +1,16 @@
 ---
 layout: page
 title: CV
-header-img: images/abstract-5.jpg
+image: images/homepage.jpg
 comments: false
-modified: 2017-09-18
+modified: 2018-04-05
 ---
 
 ## Juan Sebastián Gómez Cañón
 
-Ilmenau, 98693, Germany
-Email: juan.sebastian.gomez.canon@idmt.fraunhofer.de; juans.gomez87@gmail.com
-Website: [http://juansgomez87.github.io](http://juansgomez87.github.io)
+Ilmenau, 98693, Germany <br/>
+Email: [juan.sebastian.gomez.canon@idmt.fraunhofer.de](juan.sebastian.gomez.canon@idmt.fraunhofer.de) <br/>
+Website: [http://juansgomez87.github.io](http://juansgomez87.github.io) <br/>
 
 
 ### Research Interests
@@ -45,9 +45,9 @@ Advisor: Prof. Juana Rodriguez
 ### Honors and Awards
 -----
 
-- Deutsche Akademische Austausch Dienst (2016)
+- Deutsche Akademische Austausch Dienst Stipendium (2016)
 
-- COLFUTURO (2016)
+- Beneficiario COLFUTURO - Fundación para el Futuro de Colombia (2016)
 
 ### Computational Experience
 -----
