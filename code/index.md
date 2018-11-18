@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Code
+title: Research
 description: "Audio Signal Processing &amp; Deep Learning"
 header-img: images/homepage.jpg
 comments: false
@@ -13,7 +13,7 @@ modified: 2018-04-04
 ### Jazz Solo Recognition with Convolutional Neural Networks
 
 
-This code contains a show case of the paper *"Jazz Solo Instrument Classification with Convolutional Neural Networks, Source Separation, and Transfer Learning"* that was submitted to the ISMIR 2018 conference. <br/>
+This code contains a show case of the paper *"Jazz Solo Instrument Classification with Convolutional Neural Networks, Source Separation, and Transfer Learning"* that was accepted in the ISMIR 2018 conference. <br/>
 The code contains wav examples and the trained ConvNets to plot segment- and clip-wise predictions of the instruments in the an audio mixture. <br/>
 The model has been trained to recognize the following instruments: soprano saxophone (ss), alto saxophone (as), tenor saxophone (ts), clarinet (cl), trombone (tb), and trumpet (tp). <br/>
 The audio contains 6 jazz solos:
@@ -25,6 +25,8 @@ The audio contains 6 jazz solos:
 - Michael Brecker - African Skies (ts)
 
 You can check the code out [here](https://github.com/juansgomez87/jazz-show-case/)
+
+You can read the paper [here](http://ismir2018.ircam.fr/doc/pdfs/145_Paper.pdf)
 
 ---
 ### Time Reversal Room Impulse Response
