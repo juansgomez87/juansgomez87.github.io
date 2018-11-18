@@ -26,26 +26,26 @@ Website: [http://juansgomez87.github.io](http://juansgomez87.github.io) <br/>
 ### Education
 -----
 
-**Universitat Pompeu Fabra**, Barcelona, Spain, 2018 - Present
-Ph.D. in the Music Technology Group
-Advisor: Prof. Emilia Gómez Gutiérrez
+**Universitat Pompeu Fabra**, Barcelona, Spain, 2018 - Present<br/>
+Ph.D. in the Music Technology Group<br/>
+Advisor: Prof. Emilia Gómez Gutiérrez<br/>
 
-**Technische Universität Ilmenau**, Ilmenau, Germany, 2016 - 2018
-M.Sc. in Media Technology, Apr, 2018
-Thesis: *Automatic Instrument Recognition with Deep Convolutional Neural Networks*
-Advisor: Prof. Karlheinz Brandenburg
+**Technische Universität Ilmenau**, Ilmenau, Germany, 2016 - 2018<br/>
+M.Sc. in Media Technology, Apr, 2018<br/>
+Thesis: *Automatic Instrument Recognition with Deep Convolutional Neural Networks*<br/>
+Advisor: Prof. Karlheinz Brandenburg<br/>
 
-**Universidad de los Andes**, Bogotá, Colombia 2005 - 2011
-B.Sc. in Electronic Engineering, Oct, 2004
-Thesis: *Wireless networks for rural schools in Villa de Leyva*
-Advisor: Prof. Roberto Bustamante
+**Universidad de los Andes**, Bogotá, Colombia 2005 - 2011<br/>
+B.Sc. in Electronic Engineering, Oct, 2004<br/>
+Thesis: *Wireless networks for rural schools in Villa de Leyva*<br/>
+Advisor: Prof. Roberto Bustamante<br/>
 
-**Universidad de los Andes**, Bogotá, Colombia 2008 - 2013
-B.A. in Music majoring in Audio Production, Mar, 2013
-Thesis: *Acoustic characterization of an anechoic chamber*
-Advisor: Prof. Juana Rodriguez
+**Universidad de los Andes**, Bogotá, Colombia 2008 - 2013<br/>
+B.A. in Music majoring in Audio Production, Mar, 2013<br/>
+Thesis: *Acoustic characterization of an anechoic chamber*<br/>
+Advisor: Prof. Juana Rodriguez<br/>
 
-### Honors and Awards
+### Awards
 -----
 
 - Deutsche Akademische Austausch Dienst Stipendium (2016)
