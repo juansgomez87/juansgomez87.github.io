@@ -10,7 +10,7 @@ header-img: images/homepage.jpg
 # About Me
 -----
 
-**Juan Gómez** Colombian. I'm an electronic engineer, musician majoring in audio production, amateur guitarrist, and soon-to-be M.Sc. in Media Technology from TU Ilmenau. Music, Audio, Signal Processing, Deep Learning, AI.
+**Juan Gómez** Colombian. I'm an electronic engineer, musician majoring in audio production, amateur guitarrist, and M.Sc. in Media Technology from TU Ilmenau. I'm currently doing my PhD in the Music Technology Group of the Universitat Pompeu Fabra, Barcelona. Music, Audio, Signal Processing, Machine Learning.
 
 **Curriculum Vitae (CV)**
 

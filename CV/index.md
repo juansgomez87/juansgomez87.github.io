@@ -9,8 +9,8 @@ modified: 2018-04-05
 
 ## Juan Sebastián Gómez Cañón
 
-Ilmenau, 98693, Germany <br/>
-Email: [juan.sebastian.gomez.canon@idmt.fraunhofer.de](mailto:juan.sebastian.gomez.canon@idmt.fraunhofer.de) <br/>
+Barcelona, Spain <br/>
+Email: [juansebastian.gomez@upf.edu](mailto:juansebastian.gomez@upf.edu) <br/>
 Website: [http://juansgomez87.github.io](http://juansgomez87.github.io) <br/>
 
 
@@ -19,16 +19,18 @@ Website: [http://juansgomez87.github.io](http://juansgomez87.github.io) <br/>
 
 - Music Information Retrieval: Automatic Musical Instrument Recognition with Convolutional Neural Networks
 
-- Music Emotion Recognition: Recommendation Systems
+- Personalized Music Emotion Recognition
 
 - Audio Signal Processing: Audio Object Localization and Recognition
-
-- LSTM for Text Generation in Twitter: Uribot
 
 ### Education
 -----
 
-**Technische Universität Ilmenau**, Ilmenau, Germany, 2016 - Present
+**Universitat Pompeu Fabra**, Barcelona, Spain, 2018 - Present
+Ph.D. in the Music Technology Group
+Advisor: Prof. Emilia Gómez Gutiérrez
+
+**Technische Universität Ilmenau**, Ilmenau, Germany, 2016 - 2018
 M.Sc. in Media Technology, Apr, 2018
 Thesis: *Automatic Instrument Recognition with Deep Convolutional Neural Networks*
 Advisor: Prof. Karlheinz Brandenburg
