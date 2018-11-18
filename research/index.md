@@ -22,7 +22,7 @@ The audio contains 6 jazz solos:
 - Lee Morgan - The Sidewinder (tp)
 - Michael Brecker - African Skies (ts)
 
-You can check the code out [here.](https://github.com/juansgomez87/jazz-show-case/)
+You can check out the code [here.](https://github.com/juansgomez87/jazz-show-case/)
 
 You can read the paper [here.](http://ismir2018.ircam.fr/doc/pdfs/145_Paper.pdf)
 

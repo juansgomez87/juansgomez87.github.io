@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Audio Object Localization and Recognition
-description: \,,/(O.\\\)\,,/
+description: 
 author: Juan Gómez
-create: 2018-11-11
+create: 2018-11-06
 image:
     feature: abstract-10.jpg
 categories: [Research]

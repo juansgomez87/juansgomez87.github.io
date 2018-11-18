@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Time Reversal Room Impulse Response
-description: \,,/(O.\\\)\,,/
+description: 
 author: Juan Gómez
-create: 2018-04-05
+create: 2018-11-05
 image:
     feature: abstract-10.jpg
 categories: [Research]
