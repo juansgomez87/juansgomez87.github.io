@@ -13,16 +13,6 @@ Barcelona, Spain <br/>
 Email: [juansebastian.gomez@upf.edu](mailto:juansebastian.gomez@upf.edu) <br/>
 Website: [http://juansgomez87.github.io](http://juansgomez87.github.io) <br/>
 
-
-### Research Interests
------
-
-- Music Information Retrieval: Automatic Musical Instrument Recognition with Convolutional Neural Networks
-
-- Personalized Music Emotion Recognition
-
-- Audio Signal Processing: Audio Object Localization and Recognition
-
 ### Education
 -----
 
