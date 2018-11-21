@@ -18,22 +18,22 @@ Website: [http://juansgomez87.github.io](http://juansgomez87.github.io) <br/>
 
 **Universitat Pompeu Fabra**, Barcelona, Spain, 2018 - Present<br/>
 Ph.D. in the Music Technology Group<br/>
-Advisor: Prof. Emilia Gómez Gutiérrez<br/>
+Supervisor: Prof. Emilia Gómez Gutiérrez<br/>
 
 **Technische Universität Ilmenau**, Ilmenau, Germany, 2016 - 2018<br/>
 M.Sc. in Media Technology, Apr, 2018<br/>
 Thesis: *Automatic Instrument Recognition with Deep Convolutional Neural Networks*<br/>
-Advisor: Prof. Karlheinz Brandenburg<br/>
+Supervisor: Prof. Karlheinz Brandenburg<br/>
 
 **Universidad de los Andes**, Bogotá, Colombia 2005 - 2011<br/>
 B.Sc. in Electronic Engineering, Oct, 2004<br/>
 Thesis: *Wireless networks for rural schools in Villa de Leyva*<br/>
-Advisor: Prof. Roberto Bustamante<br/>
+Supervisor: Prof. Roberto Bustamante<br/>
 
 **Universidad de los Andes**, Bogotá, Colombia 2008 - 2013<br/>
 B.A. in Music majoring in Audio Production, Mar, 2013<br/>
 Thesis: *Acoustic characterization of an anechoic chamber*<br/>
-Advisor: Prof. Juana Rodriguez<br/>
+Supervisor: Prof. Juana Rodriguez<br/>
 
 ### Awards
 -----
