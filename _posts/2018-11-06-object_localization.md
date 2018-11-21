@@ -22,4 +22,4 @@ The sound source activity detector is based on a system proposed by Rossi et al.
 
 The complete functioning system can be seen in this video:
 
-[![Audio Object Localization and Recognition on a Robotic Platform](https://img.youtube.com/vi/4iSJTyEVjYc/0.jpg)](hhttps://www.youtube.com/watch?v=4iSJTyEVjYc)
+[![Audio Object Localization and Recognition on a Robotic Platform](https://img.youtube.com/vi/4iSJTyEVjYc/0.jpg)](https://www.youtube.com/watch?v=4iSJTyEVjYc)
