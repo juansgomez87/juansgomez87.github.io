@@ -10,8 +10,6 @@ modified: 2018-04-05
 ## Juan Sebastián Gómez Cañón
 
 Barcelona, Spain <br/>
-Email: [juansebastian.gomez (at) upf.edu](mailto:juansebastian.gomez@upf.edu) <br/>
-[Twitter](https://twitter.com/juan_s_gomez) <br/>
 
 ### Education
 -----

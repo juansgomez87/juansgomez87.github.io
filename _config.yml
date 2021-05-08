@@ -1,3 +1,4 @@
+# run locally: bundle exec jekyll serve
 title:            Juan Sebastián Gómez Cañón
 description:      "Juan Gómez is PhD student @ UPF Barcelona"
 disqus_shortname: jsgc
@@ -15,11 +16,11 @@ owner:
   bio:            "Juan Sebastián Gómez Cañön is doing his PhD in Universitat Pompeu Fabra, Barcelona.He completed his M.Sc. in Media Technology specializing in Audio Technology at the Technische Universität Ilmenau, Germany. He also completed a B.Sc. in Electronic Engineering and a B.A. in Music majoring in Audio Production at the Universidad de los Andes, Colombia. "
   email:          juansebastian.gomez@upf.edu
   # Social networking links used in footer. Update and remove as you like.
-  twitter: juan_s_gomez
+  twitter:        juan_s_gomez
   facebook:
-  github: juansgomez87
+  github:         juansgomez87
   stackexchange:
-  linkedin: juan-sebastián-gómez-cañón-69a28365
+  linkedin:       "juan-sebastián-gómez-cañón-69a28365"
   instagram:
   flickr:
   tumblr:
