@@ -10,8 +10,8 @@ modified: 2018-04-05
 ## Juan Sebastián Gómez Cañón
 
 Barcelona, Spain <br/>
-Email: [juansebastian.gomez@upf.edu](mailto:juansebastian.gomez@upf.edu) <br/>
-Website: [http://juansgomez87.github.io](http://juansgomez87.github.io) <br/>
+Email: [juansebastian.gomez (at) upf.edu](mailto:juansebastian.gomez@upf.edu) <br/>
+[Twitter](https://twitter.com/juan_s_gomez) <br/>
 
 ### Education
 -----
@@ -23,7 +23,7 @@ Supervisor: Prof. Emilia Gómez Gutiérrez<br/>
 **Technische Universität Ilmenau**, Ilmenau, Germany, 2016 - 2018<br/>
 M.Sc. in Media Technology, Apr, 2018<br/>
 Thesis: *Automatic Instrument Recognition with Deep Convolutional Neural Networks*<br/>
-Supervisor: Prof. Karlheinz Brandenburg<br/>
+Supervisors: Prof. Karlheinz Brandenburg, Dr. Jakob Abeßer, Dr. Estefanía Cano <br/>
 
 **Universidad de los Andes**, Bogotá, Colombia 2005 - 2011<br/>
 B.Sc. in Electronic Engineering, Oct, 2004<br/>

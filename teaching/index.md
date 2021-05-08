@@ -12,8 +12,7 @@ modified: 2018-04-04
 ## Courses
 -----
 
-* Polymer Physics (Spring 2018, H6305, Odd Tues 1-2, Thur 3-4) 
-* Introduction to Polymer Materials (Fall 2017)
-* Polymer Physics (Spring 2017)
-* Introduction to Polymer Materials (Fall 2016)
-* Polymer Physics (Spring 2014)
+* Señales y Sistemas I (Universitat Pompeu Fabra - 2018 - Present): Seminars and Labs
+* Audio Coding (Technische Universitaet Ilmenau - 2017): Student Assistant
+* Audio Básico (Universidad de los Andes - 2012): Monitor Académico
+* Software Musical (Universidad de los Andes - 2012): Monitor Académico
