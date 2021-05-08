@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 description: PhDing.
-header-img: images/3d_manifold.png
+header-img: images/homepage.jpg
 comments: false
 modified: 2018-04-04
 ---
