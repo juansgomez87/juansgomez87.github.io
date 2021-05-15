@@ -4,6 +4,7 @@ title: Audio Object Localization and Recognition
 description: 
 author: Juan Gómez
 create: 2018-11-06
+excerpt: "This Media Project considers the task of creating an audio sound source localization and activity detection algorithm to be used on a robotic platform."
 image:
     feature: abstract-10.jpg
 categories: [Research]

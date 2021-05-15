@@ -4,6 +4,7 @@ title: Automatic Instrument Recognition with Deep Convolutional Neural Networks
 description: 
 author: Juan Gómez
 create: 2018-11-07
+excerpt: "In the context of growing digital media and new classification/indexing demands, the task of Automatic Instrument Recognition in the field of Music Information Retrieval (MIR) has increasing importance."
 image:
     feature: abstract-10.jpg
 categories: [Research, Thesis]

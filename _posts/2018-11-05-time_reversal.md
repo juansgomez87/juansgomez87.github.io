@@ -4,6 +4,7 @@ title: Time Reversal Room Impulse Response
 description: 
 author: Juan Gómez
 create: 2018-11-05
+excerpt: "This script uses PyAudio to playback an impulse through the speakers while recording simultaneously. The natural convolution of the impulse with the room acoustics results in obtaining the room impulse response."
 image:
     feature: abstract-10.jpg
 categories: [Research]
