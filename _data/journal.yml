@@ -1,5 +1,37 @@
 # Juan's Publications -
 
+- title: 'Language-Sensitive Music Emotion Recognition Models: Are We Really There Yet?'
+  volume: Online
+  page: '576-580'
+  year: 2021
+  author:
+  - given: Juan Sebastián
+    given_initial: J.S.
+    family: Gómez-Cañón
+    role: 'main corr'
+  - given: Nicolás
+    given_initial: N.
+    family: Gutiérrez-Páez
+  - given: Lorenzo
+    given_initial: L.
+    family: Porcaro
+  - given: Aggelos
+    given_initial: A.
+    family: Gkiokas
+  - given: Perfecto
+    given_initial: P.
+    family: Herrera
+  - given: Emilia
+    given_initial: E.
+    family: Gómez
+  journal:
+    fullname: 
+    abbreviation: 16th International Conference on Music Perception and Cognition (ICMPC/ESCOM)
+  URL: 
+  type: 
+  DOI: 
+  fulltext: 
+  language: english
 
 - title: 'Language-Sensitive Music Emotion Recognition Models: Are We Really There Yet?'
   volume: Online
