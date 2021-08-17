@@ -1,0 +1,101 @@
+---
+layout: post
+title: "#SOSColombia"
+description: "Insomnio y tristeza..."
+excerpt: "Insomnio y tristeza..."
+author: Juan Gómez
+create: 2021-05-08
+image:
+    feature: abstract-10.jpg
+categories: [ideas]
+tags: [colombia, protesta]
+---
+
+## Protesta social en Colombia: retóricas de la violencia
+
+La situación actual que tiene al país en un estado de caos, el exceso de insomnio y la impotencia de vivir en una burbuja de privilegios me motivan a escribir esto... a modo de terapia personal. El dolor al ver los videos, la impotencia de vivirlo a la distancia, el miedo que crece cada día. Este un ejercicio principalmente terapéutico, parcialmente académico y muy sesgado políticamente. Pero, ¿qué más puedo hacer mientras espero la siguiente ola de noticias? Lo escribo inspirado en las correcciones de [la columna de Salomón Kalmanovitz](https://www.elespectador.com/opinion/la-negligencia-de-duque/): sobre el autismo del presidente Duque y los "errores" de lenguaje.
+
+No pretendo saber/conocer/entender lo suficiente para poder explicar la complejidad de las violencias en Colombia, pero a partir del 28 de abril el país está incendiado debido a una protesta social represada desde antes de la pandemia.
+Las protestas (que ya habían comenzado en 2019) reiniciaron en un momento muy particular: (1) el país atraviesa el peor momento de crisis de la pandemia (con cifras de 400 muertos diarios), (2) se están materializando los desastres económicos que la pandemia prometía y (3) el gobierno necesita introducir una reforma tributaria para poder salir de la crisis ecónomica.
+
+### Resumen
+
+Creo que hay una necesidad de identificar "el discurso político" colombiano que está dando continuidad a la violencia. Para esto, analicé muchos tweets de [cuentas de políticos del gobierno](#retórica-del-gobierno), [políticos de la oposición](#retórica-de-la-oposición) y de [medios de información tradicionales](#retórica-de-medios). La idea de los gráficos es identificar _qué palabras tienen similaridad entre ellas_ para un modelo estadístico entrenado con tweets desde el 26 de abril (2 días antes del paro nacional). Cada punto de la imagen representa una palabra: (1) las palabras que son cercanas han sido relacionadas de alguna manera en los tweets y (2) resalté palabras interesantes para intentar entender algo sobre el discurso político.
+
+_Recomendaciones y ejemplo_:
+
+ <center>
+ <img src="{{ site.url }}/images/plotly.png" alt="Plotly" width="700"/>
+ </center>
+
+1. Los gráficos son interactivos (a: zoom con el cursor, b: moverse por la gráfica, c: regresar a la vista original).
+2. Aunque la página funciona para celular, es preferible verla en un computador para ver lo que representa cada punto (cada palabra) al mover el cursor.
+3. Ahora, podemos ver un ejemplo con una palabra en específico (una bastante importante para este momento): **bloqueos**. En [este ejemplo](#retórica-del-gobierno), la palabra aparece en las coordenadas (47, -23) y encontramos palabras relacionadas (cercanas): **violentos, guerrilleros, secuestrados, narcoterroristas**.
+
+De acá en adelante escribo un breve contexto (muy sesgado a mi opinión personal) pero pueden saltar al análisis de los tweets [acá](#nuestros-discursos) y las ideas finales [acá](#ideas-finales).
+
+### ¿Por qué una reforma tributaria?
+
+A diferencia de muchos países, donde se emitió más dinero para financiar programas sociales, en Colombia nos "dieron mayor acceso a créditos bancarios" para lograr sobreponernos a la crisis. Para el 26 de Abril, el gobierno de Duque publicó las cifras de la encuesta [Pulso Social](https://www.dane.gov.co/index.php/estadisticas-por-tema/encuesta-pulso-social) - una justificación a una reforma tributaria.
+
+Hay varios puntos importantes: (1) la pobreza creció (pasó de un 35.7% a un 42.5% a nivel nacional), (2) aproximadamente 2.500.000 de familias no pueden acceder a tres comidas diarias y (3) los jóvenes (de 10 a 24 años) ya no están tan preocupados por contagiarse del virus. Debido a que no entiendo mucho sobre economía, acá dejo algunos artículos sobre la reforma tributaria impulsada por el gobierno ([Resumen Proyecto de Ley del Gobierno](https://home.kpmg/co/es/home/insights/2021/04/proyecto-de-ley-solidaridad-sostenible.html), [Artículo 1](https://lasillavacia.com/silla-llena/red-social/gasto-social-de-la-tributaria-va-buen-camino-los-ricos-deberian-pagar-mas)). Parece haber consenso de que la reforma buscaba financiar al gobierno a costa de la clase trabajadora, sin tocar a los más ricos del país.
+
+### ¿Y la protesta?
+
+La protesta social triunfó y logró que Duque retirara el proyecto de reforma tributaria. Sin embargo, el descontento con el gobierno sigue y la aparente desconexión con las necesidades del pueblo colombiano son evidentes. Aunque hay muchas críticas sobre las razones para seguir en paro, también es evidente que la protesta no se debía únicamente a la reforma tributaria y que la violencia con que la fuerza pública ha reaccionado cada vez hace que más colombianos salgan a las calles. Nuevamente, el análisis político no es mi fuerte, así que dejo algunas fuentes acerca de por qué siguen las marchas ([Artículo 1](https://nuso.org/articulo/el-estallido-colombiano/), [Entrevista con la Prof. Sandra Borda](https://www.youtube.com/watch?v=Bull-RQRbGk)).
+Lo preocupante es que la violencia no para: los casos de violencia policial en Colombia durante sólo 9 noches son comparables a las protestas de Chile y de Estados Unidos, según reportes de [Temblores ONG](https://www.temblores.org/).
+
+<center>
+<img src="{{ site.url }}/images/temblores.jpeg" alt="Temblores" width="400"/>
+</center>
+
+### Nuestros discursos
+
+Mi insomnio decidió analizar un poco cuál es este discurso político que manejamos los colombianos (o que nos maneja): barrí con todo lo que twittean nuestros políticos desde un par de días antes del paro (desde el 26 de Abril de 2021), entrené unos modelos estadísticos y resultan unos gráficos con colores interesantes.
+
+En resumen, las gráficas muestran relaciones entre palabras de acuerdo a cómo fueron utilizadas en los tweets.
+Lo significativo de estas gráficas es la relación de palabras cercanas. Por ejemplo, si las palabras "perro" y "mascota " fueron utilizadas en frases para entrenar el modelo, tenderán a aparecer cerca. Por otro lado, si las palabras son muy lejanas no deben ser interpretadas - ya que posiblemente no tienen mucha relación en el texto.
+
+Para escoger las cuentas de twitter, simplemente seleccioné personajes de partidos políticos de cada orilla con afinidad al gobierno o al paro nacional. Acá hay un limitación del método para analizar el discurso: se están encasillando todas las cuentas en la misma categoría (gobierno, oposición y medios), pero no todas las cuentas tienen los mismos grados de afinidad/oposición al gobierno o las marchas.
+
+### Retórica del gobierno
+
+Usé 55414 tweets de 36 cuentas de Twitter del gobierno<sup>[1](#gob)</sup>. Si pasan el cursor sobre los puntos, pueden ver palabras que se asemejan a las que están resaltadas. Es preocupante ver que palabras como **líderes - militares - indígenas - disidencias** parecen relacionadas.
+
+<iframe
+  src="{{ site.url }}/images/gobierno.html"
+  style="width:100%; height:600px;"
+></iframe>
+
+### Retórica de la oposición
+
+A pesar de acercarme más a esta posición política, es importante comparar con el discurso que está avivando las protestas por oportunismo político (según el gobierno). Usé 45902 tweets de 29 cuentas de Twitter de la oposición<sup>[2](#opo)</sup>. Aparecen relaciones de **policía - pandemia - corrupción** y **líderes - indígenas - jóvenes**.
+
+<iframe
+  src="{{ site.url }}/images/oposicion.html"
+  style="width:100%; height:600px;"
+></iframe>
+
+### Retórica de medios
+
+Particularmente, los medios tradicionales han perdido credibilidad en esta situación después que el medio de una de las familias más ricas del país transmitió [esta vergüenza periodística](https://www.youtube.com/watch?v=xutdlPq0YkE), de la cual debieron retractarse después. Usé 33860 tweets de 21 cuentas de Twitter de la medios tradicionales <sup>[3](#med)</sup>. Acá nuevamente se ve cercanía de **indígenas - disidencias - violencia - protesta - vándalos**.
+
+<iframe
+  src="{{ site.url }}/images/medios.html"
+  style="width:100%; height:600px;"
+></iframe>
+
+### Ideas finales
+
+1. **Tenemos que cuidar nuestro lenguaje.** Nada de lo que se ve en estas gráficas es nuevo para cualquier colombiano: constantemente nos polarizamos más utilizando un lenguaje para alejar al otro y convertirlo en nuestro enemigo. De ahí a la violencia, es otro paso corto para personas que están hastiadas de la pobreza, la falsedad del gobierno y la corrupción. Y claramente, los políticos (de cualquier orilla) no dejarán de sacar provecho: se manipula a la gente con un uso malintencionado del lenguaje y ellos ganan sin tener a sus hijos protestando en las calles ni vigilando las marchas.
+2. **La violencia debe parar. YA.** Desde la época de la violencia y las guerrillas liberales en los 50s, la policía (en ese entonces, chulavita) arrojaba a los bandoleros/vándalos de aviones para no tener que gastar las balas. La fuerza pública debe dejar de cometer todo tipo de acciones violentas contra la población civil. La brutalidad de la policía colombiana no es una noticia. Día tras día hay más videos que únicamente empeoran la situación - los protestantes cada vez más indignados con el gobierno y el gobierno cada vez más desconectado de la marcha. Cada vida de un joven (sea manifestante o policía) vale más que cualquier discurso político.
+3. **La juventud colombiana ya no tiene más miedo.** Los únicos héroes de toda esta situación son los jóvenes - destruyeron una reforma tributaria nociva para el resto del país en una semana. Son ellos quienes salen cada noche, son ellos quienes despertaron, son ellos quienes reportan independientemente. Y son ellos quienes cambiarán este país, para bien.
+4. **Dejamos de creer en los medios tradicionales.** Las plataformas de medios independientes ganaron: [Cuestión Publica](https://cuestionpublica.com/), [Verdad Abierta](https://verdadabierta.com/), [LaOrejaRoja](https://www.laorejaroja.com/), [Las 2 Orillas](https://www.las2orillas.co/), [La Silla Vacía](https://lasillavacia.com/) y [cerosetenta](https://cerosetenta.uniandes.edu.co/). Si los medios tradicionales no están dispuestos a intentar ser imparciales, deben dejar de ser consumidos. Si los medios están dispuestos a dejar de perpetuar retóricas que desinforman - que lo demuestren.
+5. **Necesitamos más visibilidad internacional.** Pareciera que el gobierno no tiene intención de arreglar la situación con las personas que marchan y todo indica que sólo reaccionará cuando haya penalidades externas.
+6. Cómo decía Jaime Garzón, los colombianos siempre tenemos la capacidad de [reírnos de nuestras desgracias](https://www.youtube.com/watch?v=TNu8ySvb3Pc). Pero también tenemos que pensar más en ¿cómo salir de la crisis? Dejo una [entrevista con Humberto de la Calle](https://www.youtube.com/watch?v=Rhj9EBKd0vg) (¿cómo serían las cosas si hubiera ganado?).
+
+<a name="gob">1</a>: Cuentas: @Aforero, @AlfredoRamosM, @AlRangelS, @ALVAROHPRADA, @AlvaroUribeVel, @ArmadaColombia, @CancilleriaCol, @charoguerra, @cireoramirez, @col_ejercito, @Diego_molano, @DirectorPolicia, @ernestomaciast, @ernestoyamhure, @FiscaliaCol, @FNAraujoR, @FuerzaAereaCol, @gabrieljvelasco, @infopresidencia, @IvanDuque, @jflafaurie, @jjUscategui, @JOSEOBDULIO, @MargaritaRepo, @MariaFdaCabal, @mindefensa, @MinInterior, @mluciaramirez, @OIZuluaga, @PachoSantosC, @PalomaSenadora, @PaolaHolguin, @PoliciaColombia, @RafaNietoLoaiza, @sanvalgo, @ViceColombia.
+
+<a name="opo">2</a>: Cuentas: @AABenedetti, @AidaAvella, @AlirioUribeMuoz, @angelamrobledo, @AntonioSanguino, @ClaraLopezObre, @ComunesCoL, @DavidRacero, @FelicianoValen, @GNavasTalero, @GustavoBolivar, @HOLLMANMORRIS, @intiasprilla, @IvanCepedaCast, @JERobledo, @JGalloComunes, @LeonVaLenciaA, @MovimientoMAIS, @Pastor_Alape, @petrogustavo, @piedadcordoba, @PizarroMariaJo, @PoloDemocratico, @PoloJoven, @RoyBarreras, @TimoComunes, @UP_Colombia, @wilsonariasc.
+
+<a name="med">3</a>: Cuentas: @BluRadioCo, @CGurisattiNTN24, @CMILANOTICIA, @elheraldoco, @ELTIEMPO, @HassNassar, @JorgeARestrepo, @JoseMAcevedo, @jsanchezcristo, @JuanLozano_R, @lafm, @lcvelez, @NestorMoralesC, @NoticiasCaracol, @NoticiasRCN, @NTN24, @rcnradio, @VicyDavilaH, @WRadioColombia, @YolandaRuizCe, @ZuluagaCamila.
