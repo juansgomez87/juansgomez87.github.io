@@ -26,7 +26,7 @@ I also developed a website to discover all the music we have on our dataset. You
 <div class="wrap">
 <iframe
   src="https://trompa-mtg.upf.edu/vis-mtg-mer/"
-  style="height:1100px; display: block;"
+  style="width:80%; height:1100px; display: block;"
 ></iframe>
 </div>
 
