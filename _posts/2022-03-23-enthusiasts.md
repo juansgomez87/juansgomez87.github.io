@@ -23,11 +23,12 @@ It is very easy to partipate: go to [this link](https://ilde.upf.edu/trompa/), l
 
 I also developed a website to discover all the music we have on our dataset. You can see a small preview here, but you can get the full functionality [here](https://trompa-mtg.upf.edu/vis-mtg-mer/)!
 
+<p align="center">
 <iframe
   src="https://trompa-mtg.upf.edu/vis-mtg-mer/"
-  style="width:150%; height:1000px;"
+  style="width:150%; height:1000px; display: block;"
 ></iframe>
-
+</p>
 
 
 
