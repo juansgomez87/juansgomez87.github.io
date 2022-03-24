@@ -1,16 +1,17 @@
 ---
 layout: home
 title: About
-description: A brief introduction of me
+description: d[ o_0 ]b
 tags: [Jekyll, theme, themes, responsive, blog, modern]
 comments: false
 header-img: images/homepage.jpg
 ---
 
 # About Me
------
 
-**Juan Gómez** Colombian. I'm an electronic engineer, musician majoring in audio production, amateur guitarrist, and M.Sc. in Media Technology from TU Ilmenau. I'm currently doing my PhD in the Music Technology Group of the Universitat Pompeu Fabra, Barcelona. Music, Audio, Signal Processing, Machine Learning.
+---
+
+**Juan Sebastián Gómez-Cañón** Colombian. I'm an electronic engineer, musician majoring in audio production, amateur guitarrist, and M.Sc. in Media Technology from TU Ilmenau. I'm currently doing my PhD in the Music Technology Group of the Universitat Pompeu Fabra, Barcelona. Music, Audio, Signal Processing, Machine Learning.
 
 **Curriculum Vitae (CV)**
 
