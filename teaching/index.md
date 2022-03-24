@@ -2,9 +2,9 @@
 layout: page
 title: Teaching
 description: "Courses That I Teach"
-header-img: images/research-1.jpg
+header-img: images/homepage.jpg
 comments: false
-modified: 2018-04-04
+modified: 2022-03-03
 ---
 
 # Teaching
