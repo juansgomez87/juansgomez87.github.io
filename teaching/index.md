@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-description: "Courses That I Teach"
+description: "[_]3"
 header-img: images/homepage.jpg
 comments: false
 modified: 2022-03-03
