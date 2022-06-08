@@ -14,11 +14,11 @@ tags: [personalization, colombian music]
 ## Polarization through Colombian not-so-popular music and algorithms: appraisal guided musically induced emotions
 
 
-So far, we have 52 particapants with full data out of 194. 
+So far, we have 52 participants with full data out of 194. 
 
 ### Test 0
 
-Using RWA to separate user groups and quantiles: left (RWA_score \< 0.25), center (0.25 \<= RWA_score &<= 0.75), right (RWA_score &> 0.75). 
+Using RWA to separate user groups and quantiles: left (RWA_score < 0.25), center (0.25 <= RWA_score <= 0.75), right (RWA_score > 0.75). 
 We plot the proportion of top 20 songs with highest Q2 probability (Q2 quadrant: high arousal, negative valence). 
 
 
@@ -70,6 +70,13 @@ We do not consider music that has no lyrics in the top songs.
 
 Here we start to see a trend: "center" users show similar proportions, "right-leaning" users have higher proportions for FARC music (in red), and "left-leaning" users have higher proportions for AUC music (in blue). However, this trend is not general to all and does not maintain through models. 
 
+### Test 4
 
+We only consider participants to belong from "right" or "left":
+
+<iframe
+  src="{{ site.url }}/images/tests_music_and_science/test_4.html"
+  style="width:100%; height:600px;"
+></iframe>
 
 
