@@ -1,5 +1,56 @@
 # Juan's Publications -
 
+- title: 'TROMPA-MER: an open dataset for personalized music emotion recognition'
+  volume: Online
+  page: '1-22'
+  year: 2022
+  author:
+  - given: Juan Sebastián
+    given_initial: J.S.
+    family: Gómez-Cañón
+    role: 'main corr'
+  - given: Nicolás
+    given_initial: N.
+    family: Gutiérrez-Páez
+  - given: Lorenzo
+    given_initial: L.
+    family: Porcaro
+  - given: Alastair
+    given_initial: A.
+    family: Porter
+  - given: Estefanía
+    given_initial: E.
+    family: Cano 
+  - given: Perfecto
+    given_initial: P.
+    family: Herrera-Boyer
+  - given: Aggelos
+    given_initial: A.
+    family: Gkiokas
+  - given: Perfecto
+    given_initial: P.
+    family: Herrera-Boyer
+  - given: Patricia
+    given_initial: P.
+    family: Santos
+  - given: Davinia
+    given_initial: D.
+    family: Hernandez-Leo
+  - given: Casper
+    given_initial: C.
+    family: Karreman
+  - given: Emilia
+    given_initial: E.
+    family: Gómez
+  journal:
+    fullname: 
+    abbreviation: Journal of Intelligent Information Systems
+  URL: https://trompa-mtg.upf.edu/vis-mtg-mer/
+  type: 
+  DOI: 10.1007/s10844-022-00746-0
+  fulltext: JIIS2022_TROMPA.pdf
+  language: english
+
 - title: 'Music Emotion Recognition: Toward new, robust standards in personalized and context-sensitive applications'
   volume: Online
   page: '237-245'
@@ -29,7 +80,7 @@
     family: Gómez
   journal:
     fullname: 
-    abbreviation: 
+    abbreviation: IEEE Signal Processing Magazine
   URL: https://github.com/juansgomez87/datasets_emotion
   type: 
   DOI: 10.1109/MSP.2021.3106232

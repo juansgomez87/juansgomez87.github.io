@@ -11,7 +11,7 @@ header-img: images/homepage.jpg
 ---
 
 ![profile](images/profile.png){: .image-left}{:height="40%" width="40%"} My name is Juan Sebastián Gómez Cañón. <br/>
-I'm currently doing my PhD in the Music Technology Group of the Universitat Pompeu Fabra, Barcelona.
+I recently finished my PhD in the Music Technology Group of the Universitat Pompeu Fabra, Barcelona. <br />
 
 ---
 #### About This Website
