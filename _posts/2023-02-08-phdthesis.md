@@ -17,5 +17,5 @@ After some months, I'm very happy to share that I successfully defended my PhD t
 
 I also had the great luck of having an aawesome evaluating committee: Blair Kaneshiro, Isabelle Hupont, and Arthur Flexer. 
 
-You can find my complete thesis [here](https://www.tdx.cat/handle/10803/675915#page=1). Unfortunately, we had some streaming issues (so there is no recording available) but you can find the complete slides in [this link]().
+You can find my complete thesis [here](https://www.tdx.cat/handle/10803/675915#page=1). Unfortunately, we had some streaming issues (so there is no recording available) but you can find the complete slides in [this link](https://github.com/juansgomez87/juansgomez87.github.io/blob/master/downloads/defense_JSGC.pdf).
 
