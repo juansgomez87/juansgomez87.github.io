@@ -14,9 +14,10 @@ Barcelona, Spain <br/>
 ### Education
 -----
 
-**Universitat Pompeu Fabra**, Barcelona, Spain, 2018 - Present<br/>
+**Universitat Pompeu Fabra**, Barcelona, Spain, 2018 - 2022<br/>
 Ph.D. in the Music Technology Group<br/>
-Supervisor: Prof. Emilia Gómez Gutiérrez<br/>
+Supervisors: Prof. Emilia Gómez Gutiérrez, Dr. Estefanía Cano, Prof. Perfecto Herrera<br/>
+Evaluation Committee: Dr. Arthur Flexer (JKU, Austria), Dr. Isabelle Hupont (EU Commission, Spain), Dr. Blair Kaneshiro (Stanford University, USA)<br/>
 
 **Technische Universität Ilmenau**, Ilmenau, Germany, 2016 - 2018<br/>
 M.Sc. in Media Technology, Apr, 2018<br/>
@@ -43,7 +44,8 @@ Supervisor: Prof. Juana Rodriguez<br/>
 ### Computational Experience
 -----
 
-- Programming: Python, Matlab.
+- Programming: Python, Javascript, ReactJS, Docker, Bash.
+- Libraries: Sci-kit learn, PyTorch, Tensorflow, Plotly, Flask, Dash
 
 <div markdown="0">
     <br><br>
