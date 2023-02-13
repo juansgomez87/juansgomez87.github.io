@@ -11,7 +11,7 @@ header-img: images/homepage.jpg
 
 ---
 
-**Juan Sebastián Gómez-Cañón** Colombian. I'm an electronic engineer, musician majoring in audio production, amateur guitarrist, and M.Sc. in Media Technology from TU Ilmenau. I'm currently doing my PhD in the Music Technology Group of the Universitat Pompeu Fabra, Barcelona. Music, Audio, Signal Processing, Machine Learning.
+**Juan Sebastián Gómez-Cañón** Colombian. I'm an electronic engineer, musician majoring in audio production, amateur guitarrist, M.Sc. in Media Technology from TU Ilmenau, and Ph.D. in Information and Communication Tecnologies from the MTG-UPF, Barcelona. Music, Audio, Signal Processing, Machine Learning.
 
 **Curriculum Vitae (CV)**
 
