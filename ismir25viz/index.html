@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>ISMIR25Viz - Interactive Paper Visualization</title>
+    <title>ISMIR25Viz - Interactive Paper Visualization</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.26.0/plotly.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
     <style>
@@ -1000,15 +1000,26 @@ window.UN_CATEGORIES_DATA = ${JSON.stringify(unData, null, 2)};
                 `;
             }
 
+            // updateStats(validCount, totalCount) {
+            //     const statsInfo = document.querySelector('.paper-info .stats');
+            //     if (statsInfo) {
+            //         statsInfo.innerHTML = `
+            //             <strong>📊 Dataset Stats:</strong><br>
+            //             • ${validCount} papers visualized<br>
+            //             • ${totalCount} total papers<br>
+            //             • ${Math.round((validCount/totalCount) * 100)}% coverage<br>
+            //             • Interactive exploration ready
+            //         `;
+            //     }
+            // }
+
             updateStats(validCount, totalCount) {
                 const statsInfo = document.querySelector('.paper-info .stats');
                 if (statsInfo) {
                     statsInfo.innerHTML = `
                         <strong>📊 Dataset Stats:</strong><br>
                         • ${validCount} papers visualized<br>
-                        • ${totalCount} total papers<br>
-                        • ${Math.round((validCount/totalCount) * 100)}% coverage<br>
-                        • Interactive exploration ready
+                        • 2458 total papers<br>
                     `;
                 }
             }
