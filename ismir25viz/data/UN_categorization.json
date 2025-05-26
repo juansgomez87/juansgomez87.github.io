@@ -1,0 +1,1595 @@
+[
+  {
+    "ISO Code": "CAN",
+    "Country": "Canada",
+    "Location 1": "Northern America",
+    "Location 2": "Northern America",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "USA",
+    "Country": "United States of America",
+    "Location 1": "Northern America",
+    "Location 2": "Northern America",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "AUT",
+    "Country": "Austria",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-15)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "BEL",
+    "Country": "Belgium",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-15)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "DNK",
+    "Country": "Denmark",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-15)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "FIN",
+    "Country": "Finland",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-15)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "FRA",
+    "Country": "France",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-15)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "DEU",
+    "Country": "Germany",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-15)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "GRC",
+    "Country": "Greece",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-15)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "IRL",
+    "Country": "Ireland",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-15)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "ITA",
+    "Country": "Italy",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-15)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "LUX",
+    "Country": "Luxembourg",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-15)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "NLD",
+    "Country": "Netherlands (Kingdom of the)",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-15)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "PRT",
+    "Country": "Portugal",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-15)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "ESP",
+    "Country": "Spain",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-15)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "SWE",
+    "Country": "Sweden",
+    "Location 1": "Europe",
+    "Location 2": "Other Europe",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "ISL",
+    "Country": "Iceland",
+    "Location 1": "Europe",
+    "Location 2": "Other Europe",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "NOR",
+    "Country": "Norway",
+    "Location 1": "Europe",
+    "Location 2": "Other Europe",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "CHE",
+    "Country": "Switzerland",
+    "Location 1": "Europe",
+    "Location 2": "Other Europe",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "GBR",
+    "Country": "United Kingdom of Great Britain and Northern Ireland",
+    "Location 1": "Europe",
+    "Location 2": "Other Europe",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "BGR",
+    "Country": "Bulgaria",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-13)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "HRV",
+    "Country": "Croatia",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-13)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "CYP",
+    "Country": "Cyprus",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-13)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "CZE",
+    "Country": "Czechia",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-13)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "HUN",
+    "Country": "Hungary",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-13)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "LVA",
+    "Country": "Latvia",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-13)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "LTU",
+    "Country": "Lithuania",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-13)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "MLT",
+    "Country": "Malta",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-13)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "POL",
+    "Country": "Poland",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-13)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "ROU",
+    "Country": "Romania",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-13)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "SVK",
+    "Country": "Slovakia",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-13)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "SVN",
+    "Country": "Slovenia",
+    "Location 1": "Europe",
+    "Location 2": "European Union (EU-13)",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "AUS",
+    "Country": "Australia",
+    "Location 1": "Developed Asia and Pacific",
+    "Location 2": "Developed Asia and Pacific",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "JPN",
+    "Country": "Japan",
+    "Location 1": "Developed Asia and Pacific",
+    "Location 2": "Developed Asia and Pacific",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "NZL",
+    "Country": "New Zealand",
+    "Location 1": "Developed Asia and Pacific",
+    "Location 2": "Developed Asia and Pacific",
+    "Economic Category": "Developed economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "ALB",
+    "Country": "Albania",
+    "Location 1": "South-Eastern Europe",
+    "Location 2": "South-Eastern Europe",
+    "Economic Category": "Economies in transition",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "BIH",
+    "Country": "Bosnia and Herzegovina",
+    "Location 1": "South-Eastern Europe",
+    "Location 2": "South-Eastern Europe",
+    "Economic Category": "Economies in transition",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "MNE",
+    "Country": "Montenegro",
+    "Location 1": "South-Eastern Europe",
+    "Location 2": "South-Eastern Europe",
+    "Economic Category": "Economies in transition",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "SRB",
+    "Country": "Serbia",
+    "Location 1": "South-Eastern Europe",
+    "Location 2": "South-Eastern Europe",
+    "Economic Category": "Economies in transition",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "ARM",
+    "Country": "Armenia",
+    "Location 1": "Commonwealth of Independent States and Georgia",
+    "Location 2": "Commonwealth of Independent States and Georgia",
+    "Economic Category": "Economies in transition",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "AZE",
+    "Country": "Azerbaijan",
+    "Location 1": "Commonwealth of Independent States and Georgia",
+    "Location 2": "Commonwealth of Independent States and Georgia",
+    "Economic Category": "Economies in transition",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "BLR",
+    "Country": "Belarus",
+    "Location 1": "Commonwealth of Independent States and Georgia",
+    "Location 2": "Commonwealth of Independent States and Georgia",
+    "Economic Category": "Economies in transition",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "GEO",
+    "Country": "Georgia",
+    "Location 1": "Commonwealth of Independent States and Georgia",
+    "Location 2": "Commonwealth of Independent States and Georgia",
+    "Economic Category": "Economies in transition",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "KAZ",
+    "Country": "Kazakhstan",
+    "Location 1": "Commonwealth of Independent States and Georgia",
+    "Location 2": "Commonwealth of Independent States and Georgia",
+    "Economic Category": "Economies in transition",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "KGZ",
+    "Country": "Kyrgyzstan",
+    "Location 1": "Commonwealth of Independent States and Georgia",
+    "Location 2": "Commonwealth of Independent States and Georgia",
+    "Economic Category": "Economies in transition",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "MDA",
+    "Country": "Republic of Moldova",
+    "Location 1": "Commonwealth of Independent States and Georgia",
+    "Location 2": "Commonwealth of Independent States and Georgia",
+    "Economic Category": "Economies in transition",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "RUS",
+    "Country": "Russian Federation",
+    "Location 1": "Commonwealth of Independent States and Georgia",
+    "Location 2": "Commonwealth of Independent States and Georgia",
+    "Economic Category": "Economies in transition",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "TJK",
+    "Country": "Tajikistan",
+    "Location 1": "Commonwealth of Independent States and Georgia",
+    "Location 2": "Commonwealth of Independent States and Georgia",
+    "Economic Category": "Economies in transition",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "TKM",
+    "Country": "Turkmenistan",
+    "Location 1": "Commonwealth of Independent States and Georgia",
+    "Location 2": "Commonwealth of Independent States and Georgia",
+    "Economic Category": "Economies in transition",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "UKR",
+    "Country": "Ukraine",
+    "Location 1": "Commonwealth of Independent States and Georgia",
+    "Location 2": "Commonwealth of Independent States and Georgia",
+    "Economic Category": "Economies in transition",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "UZB",
+    "Country": "Uzbekistan",
+    "Location 1": "Commonwealth of Independent States and Georgia",
+    "Location 2": "Commonwealth of Independent States and Georgia",
+    "Economic Category": "Economies in transition",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "DZA",
+    "Country": "Algeria",
+    "Location 1": "Africa",
+    "Location 2": "North Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "EGY",
+    "Country": "Egypt",
+    "Location 1": "Africa",
+    "Location 2": "North Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "LBY",
+    "Country": "Libya",
+    "Location 1": "Africa",
+    "Location 2": "North Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "MRT",
+    "Country": "Mauritania",
+    "Location 1": "Africa",
+    "Location 2": "North Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "MAR",
+    "Country": "Morocco",
+    "Location 1": "Africa",
+    "Location 2": "North Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "SDN",
+    "Country": "Sudan",
+    "Location 1": "Africa",
+    "Location 2": "North Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "TUN",
+    "Country": "Tunisia",
+    "Location 1": "Africa",
+    "Location 2": "North Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "CMR",
+    "Country": "Cameroon",
+    "Location 1": "Africa",
+    "Location 2": "Central Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "CAF",
+    "Country": "Central African Republic",
+    "Location 1": "Africa",
+    "Location 2": "Central Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "TCD",
+    "Country": "Chad",
+    "Location 1": "Africa",
+    "Location 2": "Central Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "COG",
+    "Country": "Congo",
+    "Location 1": "Africa",
+    "Location 2": "Central Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "GNQ",
+    "Country": "Equatorial Guinea",
+    "Location 1": "Africa",
+    "Location 2": "Central Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "GAB",
+    "Country": "Gabon",
+    "Location 1": "Africa",
+    "Location 2": "Central Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "STP",
+    "Country": "Sao Tome and Principe",
+    "Location 1": "Africa",
+    "Location 2": "Central Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "BDI",
+    "Country": "Burundi",
+    "Location 1": "Africa",
+    "Location 2": "East Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "COM",
+    "Country": "Comoros",
+    "Location 1": "Africa",
+    "Location 2": "East Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "COD",
+    "Country": "Democratic Republic of the Congo",
+    "Location 1": "Africa",
+    "Location 2": "East Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "DJI",
+    "Country": "Djibouti",
+    "Location 1": "Africa",
+    "Location 2": "East Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "ERI",
+    "Country": "Eritrea",
+    "Location 1": "Africa",
+    "Location 2": "East Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "ETH",
+    "Country": "Ethiopia",
+    "Location 1": "Africa",
+    "Location 2": "East Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "KEN",
+    "Country": "Kenya",
+    "Location 1": "Africa",
+    "Location 2": "East Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "MDG",
+    "Country": "Madagascar",
+    "Location 1": "Africa",
+    "Location 2": "East Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "RWA",
+    "Country": "Rwanda",
+    "Location 1": "Africa",
+    "Location 2": "East Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "SOM",
+    "Country": "Somalia",
+    "Location 1": "Africa",
+    "Location 2": "East Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "SSD",
+    "Country": "South Sudan",
+    "Location 1": "Africa",
+    "Location 2": "East Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "UGA",
+    "Country": "Uganda",
+    "Location 1": "Africa",
+    "Location 2": "East Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "TZA",
+    "Country": "United Republic of Tanzania",
+    "Location 1": "Africa",
+    "Location 2": "East Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "AGO",
+    "Country": "Angola",
+    "Location 1": "Africa",
+    "Location 2": "Southern Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "BWA",
+    "Country": "Botswana",
+    "Location 1": "Africa",
+    "Location 2": "Southern Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "SWZ",
+    "Country": "Eswatini",
+    "Location 1": "Africa",
+    "Location 2": "Southern Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "LSO",
+    "Country": "Lesotho",
+    "Location 1": "Africa",
+    "Location 2": "Southern Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "MWI",
+    "Country": "Malawi",
+    "Location 1": "Africa",
+    "Location 2": "Southern Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "MUS",
+    "Country": "Mauritius",
+    "Location 1": "Africa",
+    "Location 2": "Southern Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "MOZ",
+    "Country": "Mozambique",
+    "Location 1": "Africa",
+    "Location 2": "Southern Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "NAM",
+    "Country": "Namibia",
+    "Location 1": "Africa",
+    "Location 2": "Southern Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "ZAF",
+    "Country": "South Africa",
+    "Location 1": "Africa",
+    "Location 2": "Southern Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "ZMB",
+    "Country": "Zambia",
+    "Location 1": "Africa",
+    "Location 2": "Southern Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "ZWE",
+    "Country": "Zimbabwe",
+    "Location 1": "Africa",
+    "Location 2": "Southern Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "BEN",
+    "Country": "Benin",
+    "Location 1": "Africa",
+    "Location 2": "West Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "BFA",
+    "Country": "Burkina Faso",
+    "Location 1": "Africa",
+    "Location 2": "West Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "CPV",
+    "Country": "Cabo Verde",
+    "Location 1": "Africa",
+    "Location 2": "West Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "CIV",
+    "Country": "Co\u0302te d\u2019Ivoire",
+    "Location 1": "Africa",
+    "Location 2": "West Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "GMB",
+    "Country": "Gambia",
+    "Location 1": "Africa",
+    "Location 2": "West Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "GHA",
+    "Country": "Ghana",
+    "Location 1": "Africa",
+    "Location 2": "West Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "GIN",
+    "Country": "Guinea",
+    "Location 1": "Africa",
+    "Location 2": "West Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "GNB",
+    "Country": "Guinea-Bissau",
+    "Location 1": "Africa",
+    "Location 2": "West Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "LBR",
+    "Country": "Liberia",
+    "Location 1": "Africa",
+    "Location 2": "West Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "MLI",
+    "Country": "Mali",
+    "Location 1": "Africa",
+    "Location 2": "West Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "NER",
+    "Country": "Niger",
+    "Location 1": "Africa",
+    "Location 2": "West Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "NGA",
+    "Country": "Nigeria",
+    "Location 1": "Africa",
+    "Location 2": "West Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "SEN",
+    "Country": "Senegal",
+    "Location 1": "Africa",
+    "Location 2": "West Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "SLE",
+    "Country": "Sierra Leone",
+    "Location 1": "Africa",
+    "Location 2": "West Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "TGO",
+    "Country": "Togo",
+    "Location 1": "Africa",
+    "Location 2": "West Africa",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "BRN",
+    "Country": "Brunei Darussalam",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "KHM",
+    "Country": "Cambodia",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "CHN",
+    "Country": "China",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "PRK",
+    "Country": "Democratic People's Republic of Korea",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "FJI",
+    "Country": "Fiji",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "HKG",
+    "Country": "China, Hong Kong Special Administrative Region",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "IDN",
+    "Country": "Indonesia",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "KIR",
+    "Country": "Kiribati",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "LAO",
+    "Country": "Lao People's Democratic Republic",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "MYS",
+    "Country": "Malaysia",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "MNG",
+    "Country": "Mongolia",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "MMR",
+    "Country": "Myanmar",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "PNG",
+    "Country": "Papua New Guinea",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "PHL",
+    "Country": "Philippines",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "KOR",
+    "Country": "Republic of Korea",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "WSM",
+    "Country": "Samoa",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "SGP",
+    "Country": "Singapore",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "SLB",
+    "Country": "Solomon Islands",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "TWN",
+    "Country": "Taiwan Province of China",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "THA",
+    "Country": "Thailand",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "TLS",
+    "Country": "Timor-Leste",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "VUT",
+    "Country": "Vanuatu",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "VNM",
+    "Country": "Viet Nam",
+    "Location 1": "Asia",
+    "Location 2": "East Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "AFG",
+    "Country": "Afghanistan",
+    "Location 1": "Asia",
+    "Location 2": "South Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "BGD",
+    "Country": "Bangladesh",
+    "Location 1": "Asia",
+    "Location 2": "South Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "BTN",
+    "Country": "Bhutan",
+    "Location 1": "Asia",
+    "Location 2": "South Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "IND",
+    "Country": "India",
+    "Location 1": "Asia",
+    "Location 2": "South Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "IRN",
+    "Country": "Iran (Islamic Republic of)",
+    "Location 1": "Asia",
+    "Location 2": "South Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "MDV",
+    "Country": "Maldives",
+    "Location 1": "Asia",
+    "Location 2": "South Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "NPL",
+    "Country": "Nepal",
+    "Location 1": "Asia",
+    "Location 2": "South Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "PAK",
+    "Country": "Pakistan",
+    "Location 1": "Asia",
+    "Location 2": "South Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "LKA",
+    "Country": "Sri Lanka",
+    "Location 1": "Asia",
+    "Location 2": "South Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "BHR",
+    "Country": "Bahrain",
+    "Location 1": "Asia",
+    "Location 2": "Western Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "IRQ",
+    "Country": "Iraq",
+    "Location 1": "Asia",
+    "Location 2": "Western Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "ISR",
+    "Country": "Israel",
+    "Location 1": "Asia",
+    "Location 2": "Western Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "JOR",
+    "Country": "Jordan",
+    "Location 1": "Asia",
+    "Location 2": "Western Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "KWT",
+    "Country": "Kuwait",
+    "Location 1": "Asia",
+    "Location 2": "Western Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "LBN",
+    "Country": "Lebanon",
+    "Location 1": "Asia",
+    "Location 2": "Western Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "OMN",
+    "Country": "Oman",
+    "Location 1": "Asia",
+    "Location 2": "Western Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "QAT",
+    "Country": "Qatar",
+    "Location 1": "Asia",
+    "Location 2": "Western Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "SAU",
+    "Country": "Saudi Arabia",
+    "Location 1": "Asia",
+    "Location 2": "Western Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "PSE",
+    "Country": "State of Palestine",
+    "Location 1": "Asia",
+    "Location 2": "Western Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "SYR",
+    "Country": "Syrian Arab Republic",
+    "Location 1": "Asia",
+    "Location 2": "Western Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "TUR",
+    "Country": "T\u00fcrkiye",
+    "Location 1": "Asia",
+    "Location 2": "Western Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "ARE",
+    "Country": "United Arab Emirates",
+    "Location 1": "Asia",
+    "Location 2": "Western Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "YEM",
+    "Country": "Yemen",
+    "Location 1": "Asia",
+    "Location 2": "Western Asia",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "BHS",
+    "Country": "Bahamas",
+    "Location 1": "Latin America",
+    "Location 2": "Caribbean",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "BRB",
+    "Country": "Barbados",
+    "Location 1": "Latin America",
+    "Location 2": "Caribbean",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "BLZ",
+    "Country": "Belize",
+    "Location 1": "Latin America",
+    "Location 2": "Caribbean",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "GUY",
+    "Country": "Guyana",
+    "Location 1": "Latin America",
+    "Location 2": "Caribbean",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "JAM",
+    "Country": "Jamaica",
+    "Location 1": "Latin America",
+    "Location 2": "Caribbean",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "SUR",
+    "Country": "Suriname",
+    "Location 1": "Latin America",
+    "Location 2": "Caribbean",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "TTO",
+    "Country": "Trinidad and Tobago",
+    "Location 1": "Latin America",
+    "Location 2": "Caribbean",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "CRI",
+    "Country": "Costa Rica",
+    "Location 1": "Latin America",
+    "Location 2": "Central America",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "CUB",
+    "Country": "Cuba",
+    "Location 1": "Latin America",
+    "Location 2": "Central America",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "DOM",
+    "Country": "Dominican Republic",
+    "Location 1": "Latin America",
+    "Location 2": "Central America",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "SLV",
+    "Country": "El Salvador",
+    "Location 1": "Latin America",
+    "Location 2": "Central America",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "GTM",
+    "Country": "Guatemala",
+    "Location 1": "Latin America",
+    "Location 2": "Central America",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "HTI",
+    "Country": "Haiti",
+    "Location 1": "Latin America",
+    "Location 2": "Central America",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "HND",
+    "Country": "Honduras",
+    "Location 1": "Latin America",
+    "Location 2": "Central America",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "MEX",
+    "Country": "Mexico",
+    "Location 1": "Latin America",
+    "Location 2": "Central America",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "NIC",
+    "Country": "Nicaragua",
+    "Location 1": "Latin America",
+    "Location 2": "Central America",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "PAN",
+    "Country": "Panama",
+    "Location 1": "Latin America",
+    "Location 2": "Central America",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "ARG",
+    "Country": "Argentina",
+    "Location 1": "Latin America",
+    "Location 2": "South America",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "BOL",
+    "Country": "Bolivia",
+    "Location 1": "Latin America",
+    "Location 2": "South America",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "BRA",
+    "Country": "Brazil",
+    "Location 1": "Latin America",
+    "Location 2": "South America",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "CHL",
+    "Country": "Chile",
+    "Location 1": "Latin America",
+    "Location 2": "South America",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "COL",
+    "Country": "Colombia",
+    "Location 1": "Latin America",
+    "Location 2": "South America",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "ECU",
+    "Country": "Ecuador",
+    "Location 1": "Latin America",
+    "Location 2": "South America",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "PRY",
+    "Country": "Paraguay",
+    "Location 1": "Latin America",
+    "Location 2": "South America",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "PER",
+    "Country": "Peru",
+    "Location 1": "Latin America",
+    "Location 2": "South America",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "URY",
+    "Country": "Uruguay",
+    "Location 1": "Latin America",
+    "Location 2": "South America",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  },
+  {
+    "ISO Code": "VEN",
+    "Country": "Venezuela (Bolivarian Republic of)",
+    "Location 1": "Latin America",
+    "Location 2": "South America",
+    "Economic Category": "Developing economies",
+    "": "",
+    "taken from: https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf": ""
+  }
+]
