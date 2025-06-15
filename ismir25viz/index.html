@@ -595,6 +595,31 @@
             line-height: 1.5;
         }
 
+        .show-more-btn {
+            background: linear-gradient(45deg, #10b981, #059669);
+            color: white;
+            padding: 6px 12px;
+            border: none;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .show-more-btn:hover {
+            background: linear-gradient(45deg, #059669, #047857);
+            transform: translateY(-1px);
+            box-shadow: 0 2px 8px rgba(16, 185, 129, 0.3);
+        }
+
+        .show-more-btn:active {
+            transform: translateY(0);
+        }
+
         .stats {
             background: #f8fafc;
             padding: 15px;
@@ -1367,6 +1392,9 @@
             showPaperInfo(paper) {
                 if (!paper) return;
                 
+                // Store the full abstract for translation
+                this.currentPaperAbstract = paper.Abstract || 'No abstract available';
+                
                 const infoDiv = document.getElementById('paperInfo');
                 
                 let countryHtml = '';
@@ -1390,8 +1418,9 @@
                 
                 let abstract = paper.Abstract || 'No abstract available';
                 const fullAbstract = abstract;
-                if (abstract.length > 500) {
-                    abstract = abstract.substring(0, 500) + '...';
+                const isAbstractTruncated = abstract.length > 500;
+                if (isAbstractTruncated) {
+                    abstract = abstract.substring(0, 500);
                 }
                 
                 infoDiv.innerHTML = `
@@ -1409,7 +1438,16 @@
                     
                     <div class="abstract">
                         <strong>Abstract:</strong><br>
-                        <div id="originalAbstract">${abstract}</div>
+                        <div id="originalAbstract">
+                            ${abstract}${isAbstractTruncated ? `
+                                <span id="abstractTruncated">...</span>
+                                <span id="abstractFull" style="display: none;">${fullAbstract.substring(500)}</span>
+                                <br><br>
+                                <button class="show-more-btn" onclick="window.explorer.toggleAbstract()">
+                                    Show full abstract
+                                </button>
+                            ` : ''}
+                        </div>
                         
                         <div class="translate-widget">
                             <div class="translate-header">
@@ -1419,25 +1457,45 @@
                             <div class="translate-controls">
                                 <select id="targetLanguage">
                                     <option value="es">Spanish</option>
+                                    <option value="zh">Chinese (Mandarin)</option>
+                                    <option value="hi">Hindi</option>
+                                    <option value="ar">Arabic</option>
+                                    <option value="pt">Portuguese</option>
+                                    <option value="bn">Bengali</option>
+                                    <option value="ru">Russian</option>
+                                    <option value="ja">Japanese</option>
+                                    <option value="ur">Urdu</option>
+                                    <option value="id">Indonesian</option>
+                                    <option value="sw">Swahili</option>
+                                    <option value="te">Telugu</option>
+                                    <option value="mr">Marathi</option>
+                                    <option value="ta">Tamil</option>
+                                    <option value="tr">Turkish</option>
+                                    <option value="ko">Korean</option>
+                                    <option value="vi">Vietnamese</option>
+                                    <option value="th">Thai</option>
+                                    <option value="gu">Gujarati</option>
+                                    <option value="fa">Persian (Farsi)</option>
+                                    <option value="ms">Malay</option>
+                                    <option value="kn">Kannada</option>
+                                    <option value="ml">Malayalam</option>
+                                    <option value="pa">Punjabi</option>
+                                    <option value="or">Odia</option>
+                                    <option value="as">Assamese</option>
+                                    <option value="ne">Nepali</option>
+                                    <option value="si">Sinhala</option>
+                                    <option value="my">Myanmar (Burmese)</option>
+                                    <option value="km">Khmer (Cambodian)</option>
+                                    <option value="lo">Lao</option>
+                                    <option value="am">Amharic</option>
+                                    <option value="ha">Hausa</option>
                                     <option value="fr">French</option>
                                     <option value="de">German</option>
                                     <option value="it">Italian</option>
-                                    <option value="pt">Portuguese</option>
-                                    <option value="ru">Russian</option>
-                                    <option value="ja">Japanese</option>
-                                    <option value="ko">Korean</option>
-                                    <option value="zh">Chinese</option>
-                                    <option value="ar">Arabic</option>
-                                    <option value="hi">Hindi</option>
                                     <option value="nl">Dutch</option>
                                     <option value="sv">Swedish</option>
-                                    <option value="da">Danish</option>
-                                    <option value="no">Norwegian</option>
-                                    <option value="fi">Finnish</option>
-                                    <option value="pl">Polish</option>
-                                    <option value="tr">Turkish</option>
                                 </select>
-                                <button class="translate-btn" onclick="window.explorer.translateAbstract('${fullAbstract.replace(/'/g, "\\'")}')">
+                                <button class="translate-btn" onclick="window.explorer.translateAbstract()">
                                     Translate
                                 </button>
                             </div>
@@ -1919,9 +1977,12 @@
                 this.updateEvolutionKeywordSelection();
             }
 
-            async translateAbstract(abstractText) {
+            async translateAbstract() {
                 const targetLanguage = document.getElementById('targetLanguage').value;
                 const translatedDiv = document.getElementById('translatedAbstract');
+                
+                // Get the full abstract from the stored instance variable
+                const abstractText = this.currentPaperAbstract || '';
                 
                 if (!abstractText || abstractText === 'No abstract available') {
                     translatedDiv.innerHTML = '<div class="translate-loading">No abstract available to translate.</div>';
@@ -1935,9 +1996,13 @@
                     // Try multiple translation services for better reliability
                     let translatedText = null;
                     
-                    // First try: MyMemory API
+                    // Determine text length and strategy
+                    const isLongAbstract = abstractText.length > 500;
+                    const textToTranslate = isLongAbstract ? abstractText.substring(0, 500) : abstractText;
+                    
+                    // First try: MyMemory API (has character limits)
                     try {
-                        const myMemoryResponse = await fetch(`https://api.mymemory.translated.net/get?q=${encodeURIComponent(abstractText.substring(0, 500))}&langpair=en|${targetLanguage}`);
+                        const myMemoryResponse = await fetch(`https://api.mymemory.translated.net/get?q=${encodeURIComponent(textToTranslate)}&langpair=en|${targetLanguage}`);
                         const myMemoryData = await myMemoryResponse.json();
                         
                         if (myMemoryData.responseStatus === 200 && myMemoryData.responseData && myMemoryData.responseData.translatedText) {
@@ -1956,7 +2021,7 @@
                                     'Content-Type': 'application/json',
                                 },
                                 body: JSON.stringify({
-                                    q: abstractText.substring(0, 500),
+                                    q: textToTranslate,
                                     source: 'en',
                                     target: targetLanguage,
                                     format: 'text'
@@ -1975,8 +2040,16 @@
                     if (translatedText) {
                         translatedDiv.innerHTML = `
                             <div class="translated-text">
-                                <strong>🎯 Translation (${this.getLanguageName(targetLanguage)}):</strong><br>
+                                <strong>Translation (${this.getLanguageName(targetLanguage)}):</strong><br>
                                 ${translatedText}
+                                ${isLongAbstract ? `
+                                    <div class="translation-disclaimer" style="border-left-color: #f59e0b; background: rgba(251, 191, 36, 0.1);">
+                                        <strong> Note:</strong> This abstract was longer than 500 characters. Only the first 500 characters were translated due to API limitations. 
+                                        <a href="https://translate.google.com/?sl=en&tl=${targetLanguage}&text=${encodeURIComponent(abstractText)}" target="_blank" style="color: #f59e0b; text-decoration: underline;">
+                                            Click here to translate the full abstract with Google Translate
+                                        </a>.
+                                    </div>
+                                ` : ''}
                                 <div class="translation-disclaimer">
                                     <strong>⚠️ Disclaimer:</strong> This is an automatic translation. For academic precision, consider reaching out to the authors.
                                 </div>
@@ -2014,13 +2087,39 @@
 
             getLanguageName(code) {
                 const languages = {
-                    'es': 'Spanish', 'fr': 'French', 'de': 'German', 'it': 'Italian',
-                    'pt': 'Portuguese', 'ru': 'Russian', 'ja': 'Japanese', 'ko': 'Korean',
-                    'zh': 'Chinese', 'ar': 'Arabic', 'hi': 'Hindi', 'nl': 'Dutch',
-                    'sv': 'Swedish', 'da': 'Danish', 'no': 'Norwegian', 'fi': 'Finnish',
-                    'pl': 'Polish', 'tr': 'Turkish'
+                    'es': 'Spanish', 'zh': 'Chinese (Mandarin)', 'hi': 'Hindi', 'ar': 'Arabic',
+                    'pt': 'Portuguese', 'bn': 'Bengali', 'ur': 'Urdu', 'id': 'Indonesian',
+                    'sw': 'Swahili', 'te': 'Telugu', 'mr': 'Marathi', 'ta': 'Tamil',
+                    'tr': 'Turkish', 'vi': 'Vietnamese', 'th': 'Thai', 'gu': 'Gujarati',
+                    'fa': 'Persian (Farsi)', 'ms': 'Malay', 'kn': 'Kannada', 'ml': 'Malayalam',
+                    'pa': 'Punjabi', 'or': 'Odia', 'as': 'Assamese', 'ne': 'Nepali',
+                    'si': 'Sinhala', 'my': 'Myanmar (Burmese)', 'km': 'Khmer (Cambodian)',
+                    'lo': 'Lao', 'am': 'Amharic', 'ha': 'Hausa', 'fr': 'French', 'de': 'German',
+                    'it': 'Italian', 'nl': 'Dutch', 'sv': 'Swedish'
                 };
                 return languages[code] || code.toUpperCase();
+            }
+
+            toggleAbstract() {
+                const truncatedSpan = document.getElementById('abstractTruncated');
+                const fullSpan = document.getElementById('abstractFull');
+                const button = document.querySelector('.show-more-btn');
+                
+                if (!truncatedSpan || !fullSpan || !button) return;
+                
+                const isExpanded = fullSpan.style.display !== 'none';
+                
+                if (isExpanded) {
+                    // Collapse: hide full text, show truncation
+                    fullSpan.style.display = 'none';
+                    truncatedSpan.style.display = 'inline';
+                    button.innerHTML = 'Show full abstract';
+                } else {
+                    // Expand: show full text, hide truncation
+                    fullSpan.style.display = 'inline';
+                    truncatedSpan.style.display = 'none';
+                    button.innerHTML = 'Show less';
+                }
             }
         }
 
